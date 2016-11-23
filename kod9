@@ -9,7 +9,7 @@ zmmiana6
             article, aside, footer, header, nav, section{
                 display: block;
             }
-        </style>
+zmiana7
         <title>HTML5 Test!</title>
     </head>
     <body>
